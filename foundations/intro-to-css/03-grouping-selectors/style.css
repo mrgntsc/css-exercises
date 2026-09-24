@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.pos,.neg {
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+  font-size: 28px;
+}
+
+.pos {
+  background-color: rgb(7, 8, 7);
+  color: rgb(242, 242, 244);
+}
+
+.neg {
+  background-color: rgb(234, 255, 0);
+}
