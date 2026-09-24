@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+  background-color: rgb(242, 172, 190);
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#nb2 {
+  color: rgb(27, 33, 211);
+  font-size: 36px;
+}
+
+.nb3 {
+  font-size: 24px;
+}
+
+#nb4 {
+  background-color: rgb(113, 218, 128);
+  font-size: 24px;
+  font-weight: bold;
+}
